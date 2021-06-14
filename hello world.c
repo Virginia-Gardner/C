@@ -1,5 +1,10 @@
 #include <stdio.h>
 
-int	main(int argn argv[]){
-	printf("Hello vorld")
+int	main(int argc, char* argv[]){
+	/* https://qna.habr.com/q/325854 */
+	/* Дело в том, что массивы в C нельзя передавать как
+	 * параметр функции, указатель на массив нельзя сохранить.
+	 * В результате массив, например char[8], принято 
+	 * передавать как указатель на его первый элемент: char* */
+	printf("Hello vorld");
 }
