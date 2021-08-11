@@ -1,0 +1,11 @@
+echo ================== ex00 ====================
+gcc -Wall -Wextra -Werror ~/c04t/ex00/main.c ~/test/ex00/*.c -o ~/test/ex00.out && ./ex00.out
+echo ================== ex01 ====================
+gcc -Wall -Wextra -Werror ~/c04t/ex01/main.c ~/test/ex01/*.c -o ~/test/ex01.out && ./ex01.out
+echo ================== ex02 ====================
+gcc -Wall -Wextra -Werror ~/c04t/ex02/main.c ~/test/ex02/*.c -o ~/test/ex02.out && ./ex02.out
+echo ================== ex03 ====================
+gcc -Wall -Wextra -Werror ~/c04t/ex03/main.c ~/test/ex03/*.c -o ~/test/ex03.out && ./ex03.out
+echo ================== ex04 ====================
+gcc -Wall -Wextra -Werror ~/c04t/ex04/main.c ~/test/ex04/*.c -o ~/test/ex04.out && ./ex04.out
+echo ================== ex05 ====================

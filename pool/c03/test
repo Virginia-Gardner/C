@@ -1,0 +1,5 @@
+gcc -Wall -Wextra -Werror /Users/bnidia/c03t/ex00/main.c /Users/bnidia/test/ex00/*.c -o /Users/bnidia/test/ex00.out
+gcc -Wall -Wextra -Werror /Users/bnidia/c03t/ex01/main.c /Users/bnidia/test/ex01/*.c -o /Users/bnidia/test/ex01.out 
+gcc -Wall -Wextra -Werror /Users/bnidia/c03t/ex02/main.c /Users/bnidia/test/ex02/*.c -o /Users/bnidia/test/ex02.out 
+gcc -Wall -Wextra -Werror /Users/bnidia/c03t/ex03/main.c /Users/bnidia/test/ex03/*.c -o /Users/bnidia/test/ex03.out 
+gcc -Wall -Wextra -Werror /Users/bnidia/c03t/ex04/main.c /Users/bnidia/test/ex04/*.c -o /Users/bnidia/test/ex04.out 
